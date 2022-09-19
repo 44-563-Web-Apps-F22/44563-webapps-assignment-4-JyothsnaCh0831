@@ -17,50 +17,129 @@
     font-family: 'Trebuchet MS';
     font-size: 15px;
 }
+.MOUNT:hover {
+    color: black;
+    display: inline;
+    background-color: red;
+    border: 2px dotted white;
+    box-shadow: 3px 5px 10px 5px darkblue;
+}
+
 .queen {
     color: red;
     font-family: 'Verdana';
     font-size: 15px;
 }
+.queen:hover {
+    color: black;
+    display: inline;
+    background-color: #F7D716;
+    border: 2px dashed white;
+    box-shadow: 3px 5px 10px 5px greenyellow;
+}
+
 .PHYL {
     color: aqua;
     font-family: 'Georgia';
     font-size: 15px;
 }
+.PHYL:hover {
+    color: black;
+    display: inline;
+    background-color: chocolate;
+    border: 2px double goldenrod;
+    box-shadow: 3px 5px 10px 5px orchid;
+}
+
 .TOLL {
     color: #3D8361;
     font-family: 'Segoe UI';
     font-size: 15px;
 }
+.TOLL:hover {
+    color: black;
+    display: inline;
+    background-color: deeppink;
+    border: 2px dotted chartreuse;
+    box-shadow: 3px 5px 10px 5px red;
+}
+
 .CEL {
     color: #A460ED;
     font-family: monospace;
     font-size: 15px;
 }
+.CEL:hover {
+    color: black;
+    display: inline;
+    background-color: gold;
+    border: 2px solid whitesmoke;
+    box-shadow: 3px 5px 10px 5px aqua;
+}
+
 .LEI {
     color: #FFAE6D;
     font-family: 'Times New Roman';
     font-size: 15px;
 }
+.LEI:hover {
+    color: black;
+    display: inline;
+    background-color: orangered;
+    border: 2px solid white;
+    box-shadow: 3px 5px 10px 5px yellow;
+}
+
 .FLE {
     color: #FBDF07;
     font-family: 'Cambria';
     font-size: 15px;
 }
+.FLE:hover {
+    color: black;
+    display: inline;
+    background-color: mediumblue;
+    border: 2px dotted white;
+    box-shadow: 3px 5px 10px 5px sienna;
+}
+
 .IOL {
     color: #472D2D;
     font-family: 'Lucida Grande';
     font-size: 15px;
 }
+.IOL:hover {
+    color: black;
+    display: inline;
+    background-color: lawngreen;
+    border: 2px solid white;
+    box-shadow: 3px 5px 10px 5px darkred;
+}
+
 .STR {
     color: #42855B;
     font-family: 'Helvetica';
     font-size: 15px;
 }
+.STR:hover {
+    color: black;
+    display: inline;
+    background-color: magenta;
+    border: 2px dotted white;
+    box-shadow: 3px 5px 10px 5px midnightblue;
+}
+
 .CH {
     color: #554994;
     font-family: 'Franklin Gothic Medium';
     font-size: 15px;
+}
+.CH:hover {
+    color: black;
+    display: inline;
+    background-color: #FF1E00;
+    border: 2px dotted white;
+    box-shadow: 3px 5px 10px 5px greenyellow;
 }
 
 /* Songs */
