@@ -1,3 +1,4 @@
+/* Part 5 */
 /* directions */
 .direction {
     color: black;
@@ -106,4 +107,32 @@
     color: #16003B;
     text-decoration: solid;
     font-weight: bold;
+}
+
+/* Table */
+table, th, td {
+    border: 2px solid #824100;
+    width: 500px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    color: #002F5E;
+    background-color: #9DCECE;
+}
+tr:nth-child(odd) {
+    color: cornflowerblue;
+    background-color: whitesmoke;
+}
+
+th {
+    color: blueviolet;
 }
