@@ -1,0 +1,93 @@
+/* directions */
+.direction {
+    background-color: #C6EBC5;
+}
+
+.direction:hover {
+    background-color: #AF0171;
+    color: #FFDE00;
+}
+
+/* characters */
+.MOUNT {
+    color: black;
+    font-family: 'Trebuchet MS';
+    size: 20px;
+}
+.queen {
+    color: red;
+    font-family: 'Verdana';
+    size: 20px;
+}
+.PHYL {
+    color: aqua;
+    font-family: 'Georgia';
+    size: 20px;
+}
+.TOLL {
+    color: #3D8361;
+    font-family: 'Segoe UI';
+    size: 20px;
+}
+.CEL {
+    color: #A460ED;
+    font-family: monospace;
+    size: 20px;
+}
+.LEI {
+    color: #FFAE6D;
+    font-family: 'Times New Roman';
+    size: 20px;
+}
+.FLE {
+    color: #FBDF07;
+    font-family: 'Cambria';
+    size: 20px
+}
+
+/* Songs */
+.song_1 {
+    font-family: 'Trebuchet MS';
+    size: 18px;
+    text-decoration-color: darkseagreen;
+}
+
+.song_2 {
+    font-family: 'Arial Narrow Bold';
+    size: 18px;
+    text-decoration-color: olive;
+}
+
+.song_3 {
+    font-family: 'Tahoma';
+    size: 18px;
+    text-decoration-color: thistle;
+}
+
+.song_4 {
+    font-family: 'Lucida Sans Regular';
+    size: 18px;
+    text-decoration-color: khaki;
+}
+
+.song_5 {
+    font-family: 'Gill Sans';
+    size: 18px;
+    text-decoration-color: lawngreen;
+}
+
+/* speech */
+.speech {
+    font-style: italic;
+    color: #42032C;
+    font-family: 'Haettenschweiler';
+    size: 13px;
+}
+
+/* chorus */
+.chorous {
+    color: #3B9AE1;
+    font-style: oblique;
+    font-family: cursive;
+    size: 10px;
+}
