@@ -1,93 +1,109 @@
 /* directions */
 .direction {
+    color: black;
+    display: inline;
     background-color: #C6EBC5;
 }
 
 .direction:hover {
-    background-color: #AF0171;
-    color: #FFDE00;
+    background-color: #FFB4B4;
+    color: blueviolet;
 }
 
 /* characters */
 .MOUNT {
-    color: black;
+    color: #F7D716;
     font-family: 'Trebuchet MS';
-    size: 20px;
+    font-size: 15px;
 }
 .queen {
     color: red;
     font-family: 'Verdana';
-    size: 20px;
+    font-size: 15px;
 }
 .PHYL {
     color: aqua;
     font-family: 'Georgia';
-    size: 20px;
+    font-size: 15px;
 }
 .TOLL {
     color: #3D8361;
     font-family: 'Segoe UI';
-    size: 20px;
+    font-size: 15px;
 }
 .CEL {
     color: #A460ED;
     font-family: monospace;
-    size: 20px;
+    font-size: 15px;
 }
 .LEI {
     color: #FFAE6D;
     font-family: 'Times New Roman';
-    size: 20px;
+    font-size: 15px;
 }
 .FLE {
     color: #FBDF07;
     font-family: 'Cambria';
-    size: 20px
+    font-size: 15px;
 }
 
 /* Songs */
 .song_1 {
     font-family: 'Trebuchet MS';
     size: 18px;
-    text-decoration-color: darkseagreen;
+    font-style: inherit;
 }
 
 .song_2 {
     font-family: 'Arial Narrow Bold';
     size: 18px;
-    text-decoration-color: olive;
+    font-style: inherit;
 }
 
 .song_3 {
     font-family: 'Tahoma';
     size: 18px;
-    text-decoration-color: thistle;
+    font-style: inherit;
 }
 
 .song_4 {
     font-family: 'Lucida Sans Regular';
     size: 18px;
-    text-decoration-color: khaki;
+    font-style: inherit;
 }
 
 .song_5 {
     font-family: 'Gill Sans';
     size: 18px;
-    text-decoration-color: lawngreen;
+    font-style: inherit;
 }
 
 /* speech */
 .speech {
     font-style: italic;
-    color: #42032C;
-    font-family: 'Haettenschweiler';
-    size: 13px;
+    font-family:'Franklin Gothic Medium';
+    font-size: 13px;
 }
 
 /* chorus */
-.chorous {
+.chorus {
     color: #3B9AE1;
     font-style: oblique;
     font-family: cursive;
-    size: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+/* act */
+.act {
+    size: 25px;
+    color: #FF1E00;
+    font-style: italic;
+}
+
+/* scene */
+.scene {
+    color: #16003B;
+    text-decoration: solid;
+    font-weight: bold;
 }
