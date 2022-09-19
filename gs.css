@@ -47,6 +47,21 @@
     font-family: 'Cambria';
     font-size: 15px;
 }
+.IOL {
+    color: #472D2D;
+    font-family: 'Lucida Grande';
+    font-size: 15px;
+}
+.STR {
+    color: #42855B;
+    font-family: 'Helvetica';
+    font-size: 15px;
+}
+.CH {
+    color: #554994;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15px;
+}
 
 /* Songs */
 .song_1 {
