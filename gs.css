@@ -20,9 +20,8 @@
 .MOUNT:hover {
     color: black;
     display: inline;
-    background-color: red;
-    border: 2px dotted white;
-    box-shadow: 3px 5px 10px 5px darkblue;
+    border: 2px dotted red;
+    text-shadow: 5px 5px 2px darkblue;
 }
 
 .queen {
@@ -33,9 +32,8 @@
 .queen:hover {
     color: black;
     display: inline;
-    background-color: #F7D716;
-    border: 2px dashed white;
-    box-shadow: 3px 5px 10px 5px greenyellow;
+    border: 2px dashed blue;
+    text-shadow: 5px 5px 2px greenyellow;
 }
 
 .PHYL {
@@ -46,9 +44,8 @@
 .PHYL:hover {
     color: black;
     display: inline;
-    background-color: chocolate;
     border: 2px double goldenrod;
-    box-shadow: 3px 5px 10px 5px orchid;
+    text-shadow: 5px 5px 2px orchid;
 }
 
 .TOLL {
@@ -59,9 +56,8 @@
 .TOLL:hover {
     color: black;
     display: inline;
-    background-color: deeppink;
     border: 2px dotted chartreuse;
-    box-shadow: 3px 5px 10px 5px red;
+    text-shadow: 5px 5px 2px red;
 }
 
 .CEL {
@@ -72,9 +68,8 @@
 .CEL:hover {
     color: black;
     display: inline;
-    background-color: gold;
     border: 2px solid whitesmoke;
-    box-shadow: 3px 5px 10px 5px aqua;
+    text-shadow: 5px 5px 2px aqua;
 }
 
 .LEI {
@@ -85,9 +80,8 @@
 .LEI:hover {
     color: black;
     display: inline;
-    background-color: orangered;
-    border: 2px solid white;
-    box-shadow: 3px 5px 10px 5px yellow;
+    border: 2px solid green;
+    text-shadow: 5px 5px 2px yellow;
 }
 
 .FLE {
@@ -98,9 +92,8 @@
 .FLE:hover {
     color: black;
     display: inline;
-    background-color: mediumblue;
-    border: 2px dotted white;
-    box-shadow: 3px 5px 10px 5px sienna;
+    border: 2px dotted orangered;
+    text-shadow: 5px 5px 2px sienna;
 }
 
 .IOL {
@@ -111,9 +104,8 @@
 .IOL:hover {
     color: black;
     display: inline;
-    background-color: lawngreen;
-    border: 2px solid white;
-    box-shadow: 3px 5px 10px 5px darkred;
+    border: 2px solid chartreuse;
+    text-shadow: 5px 5px 2px darkred;
 }
 
 .STR {
@@ -124,9 +116,8 @@
 .STR:hover {
     color: black;
     display: inline;
-    background-color: magenta;
-    border: 2px dotted white;
-    box-shadow: 3px 5px 10px 5px midnightblue;
+    border: 2px dotted red;
+    text-shadow: 5px 5px 2px midnightblue;
 }
 
 .CH {
@@ -137,9 +128,8 @@
 .CH:hover {
     color: black;
     display: inline;
-    background-color: #FF1E00;
-    border: 2px dotted white;
-    box-shadow: 3px 5px 10px 5px greenyellow;
+    border: 2px dotted blue;
+    text-shadow: 5px 5px 2px greenyellow;
 }
 
 /* Songs */
